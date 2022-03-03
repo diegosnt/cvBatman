@@ -1,0 +1,53 @@
+header>div {
+    background-color: #E6E6E6;
+}
+
+header>div>img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    letter-spacing: 10px;
+
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+.italic {
+    font-family: Times New Roman;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.fechaBlod{
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+footer {
+    text-align: center;
+    background-color: #005677;
+    color: white;
+    height: 37px;
+}
+
+footer ul li {
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+
+}
