@@ -40,13 +40,13 @@ footer {
 
 footer>ul {
     margin: 0px;
-    padding: 0px 20px 0px 0px;
 }
 
 footer>ul>li {
     font-weight: bold;
     list-style-type: none;
     display: inline;
+    padding-left:  15px;
 }
 
 .fontItalic {
