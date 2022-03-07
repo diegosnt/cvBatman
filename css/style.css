@@ -32,21 +32,13 @@ h2 {
 
 footer {
     background-color: #005677;
-    text-align: center;
+}
+
+footer p {
     color: white;
-    margin: 0px;
-    padding: 5px;
-}
-
-footer>ul {
-    margin: 0px;
-}
-
-footer>ul>li {
-    font-weight: bold;
-    list-style-type: none;
-    display: inline;
-    padding-left:  15px;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .fontItalic {
